@@ -1,6 +1,3 @@
-#!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
-
 # Ignore during CI
 [ -n "$CI" ] && exit 0
 
