@@ -1,0 +1,1 @@
+export { initializeDummyDB } from './main'
